@@ -26,7 +26,8 @@ Welcome to my GitHub profile! I'm Sujal Bhojani, a final year student specializi
 ---
 
 ### 💻 Tech Stack:
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)     ![Quartus](https://img.shields.io/badge/-Quartus-FF6F00?style=flat-square&logo=intel&logoColor=white)     ![Vivado](https://img.shields.io/badge/-Vivado-FF6F00?style=flat-square&logo=xilinx&logoColor=white)     ![Verilog](https://img.shields.io/badge/-Verilog-9C27B0?style=flat-square&logo=verilog&logoColor=white)     ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-FF5722?style=flat-square&logo=systemverilog&logoColor=white)
+
+![](https://img.shields.io/badge/-C-00599C?style=flat-square&logo&logoColor=white)         ![Quartus](https://img.shields.io/badge/-Quartus-FF6F00?style=flat-square&logo=intel&logoColor=white)         ![Vivado](https://img.shields.io/badge/-Vivado-FF6F00?style=flat-square&logo=xilinx&logoColor=white)         ![Verilog](https://img.shields.io/badge/-Verilog-9C27B0?style=flat-square&logo=verilog&logoColor=white)         ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-FF5722?style=flat-square&logo=systemverilog&logoColor=white)
 <p align="left">
     <a href="#"><img src="https://www.svgrepo.com/download/353423/arduino.svg" alt="Arduino IDE" width="60" height="60"/></a>&nbsp;&nbsp;
     <a href="#"><img src="https://www.svgrepo.com/download/448236/linux.svg" alt="Linux" width="60" height="60"/></a>&nbsp;&nbsp;
