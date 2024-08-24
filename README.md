@@ -3,7 +3,7 @@
 
 **Final Year Electronics & Communication Engineering Student**
 
-Welcome to my GitHub profile! I'm Sujal Bhojani, a final year student specializing in Electronics & Communication Engineering. My interests include Computer Architecture, VLSI Design, Testing & Verification, RTL, and more. I am passionate about learning and applying my skills to solve real-world problems.
+Welcome to my GitHub profile! I'm Sujal Bhojani, a final year student specializing in Electronics & Communication Engineering. My interests include Computer Architecture, VLSI Design, Testing & Verification, RTL Design and more. I am passionate about learning and applying my skills to solve real-world problems.
 
 ---
 
@@ -20,12 +20,6 @@ Welcome to my GitHub profile! I'm Sujal Bhojani, a final year student specializi
 - ![VLSI Design](https://img.shields.io/badge/VLSI%20Design-4CAF50?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 - ![Testing & Verification](https://img.shields.io/badge/Testing%20%26%20Verification-FF5722?style=for-the-badge&logo=testtube&logoColor=white)
 - ![RTL](https://img.shields.io/badge/RTL%20Design-9C27B0?style=for-the-badge&logo=verilog&logoColor=white)
-
----
-
-### 📈 GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ---
 
