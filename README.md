@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm Sujal Bhojani, a final year student specializi
 
 ### 🌟 Skills and Interests:
 
-- ![Computer Architecture](https://img.shields.io/badge/-Computer%20Architecture-4A90E2?style=flat-square&logo=buffer&logoColor=white)
-- ![VLSI Design](https://img.shields.io/badge/-VLSI%20Design-4CAF50?style=flat-square&logo=altiumdesigner&logoColor=white)
-- ![Testing & Verification](https://img.shields.io/badge/-Testing%20%26%20Verification-FF5722?style=flat-square&logo=testtube&logoColor=white)
-- ![RTL Design](https://img.shields.io/badge/-RTL%20Design-9C27B0?style=flat-square&logo=verilog&logoColor=white)
+- ![Computer Architecture](https://img.shields.io/badge/-Computer%20Architecture-4A90E2?style=flat&logo=buffer&logoColor=white)
+- ![VLSI Design](https://img.shields.io/badge/-VLSI%20Design-4CAF50?style=flat&logo=altiumdesigner&logoColor=white)
+- ![Testing & Verification](https://img.shields.io/badge/-Testing%20%26%20Verification-FF5722?style=flat&logo=testtube&logoColor=white)
+- ![RTL Design](https://img.shields.io/badge/-RTL%20Design-9C27B0?style=flat&logo=verilog&logoColor=white)
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm Sujal Bhojani, a final year student specializi
 
 ### 💻 Tech Stack:
 
-![](https://img.shields.io/badge/-C-00599C?style=flat-square&logo&logoColor=white)         ![Quartus](https://img.shields.io/badge/-Quartus-FF6F00?style=flat-square&logo=intel&logoColor=white)         ![Vivado](https://img.shields.io/badge/-Vivado-FF6F00?style=flat-square&logo=xilinx&logoColor=white)         ![Verilog](https://img.shields.io/badge/-Verilog-9C27B0?style=flat-square&logo=verilog&logoColor=white)         ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-FF5722?style=flat-square&logo=systemverilog&logoColor=white)
+![](https://img.shields.io/badge/-C-FFDD54?style=flat&logo&logoColor=white)         ![Quartus](https://img.shields.io/badge/-Quartus-00599C?style=flat&logo=intel&logoColor=white)         ![Vivado](https://img.shields.io/badge/-Vivado-444444?style=flat&logo=xilinx&logoColor=white)         ![Verilog](https://img.shields.io/badge/-Verilog-351c75?style=flat&logo=verilog&logoColor=white)         ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-674ea7?style=flat&logo=systemverilog&logoColor=white)
 <p align="left">
     <a href="#"><img src="https://www.svgrepo.com/download/353423/arduino.svg" alt="Arduino IDE" width="60" height="60"/></a>&nbsp;&nbsp;
     <a href="#"><img src="https://www.svgrepo.com/download/448236/linux.svg" alt="Linux" width="60" height="60"/></a>&nbsp;&nbsp;
@@ -47,3 +47,9 @@ Welcome to my GitHub profile! I'm Sujal Bhojani, a final year student specializi
 ---
 
 Thank you for visiting my profile! Feel free to reach out to me via the links above.
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalbhojani&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sujalbhojani&icon=0&color=0)](https://visitcount.itsvg.in)
