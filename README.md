@@ -1,9 +1,9 @@
 ## Hi there 👋
 # Sujal Bhojani
 
-**Final Year Electronics & Communication Engineering Student**
+**Electronics & Communication Engineering Grad**
 
-Welcome to my GitHub profile! I'm Sujal Bhojani, a final year student specializing in Electronics & Communication Engineering. My interests include Computer Architecture, VLSI Design, Physical Design, RTL Design, and more. I am passionate about learning and applying my skills to solve real-world problems.
+Welcome to my GitHub profile! I'm Sujal Bhojani, a recent graduate with Bachelors in Electronics & Communication Engineering. My interests include Computer Architecture, VLSI Design, Physical Design, RTL Design, and more. I am passionate about learning and applying my skills to solve real-world problems.
 
 ---
 
